@@ -1,3 +1,3 @@
 # SCHN_homework
-this repository is part of recruitment process
-jupyter_notebook file contains all necessary data/comments
+This repository is part of recruitment process.
+Jupyter_notebook file contains all necessary data/comments
