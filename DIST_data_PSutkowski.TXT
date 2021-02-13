@@ -1,0 +1,110 @@
+	Dist_score	Dist_longW	Dist_latN
+Aberfeldy	2	3.875	56.62
+Aberlour	4	3.22	57.46
+Ardberg	4	6.08	55.64
+Ardmore	2	2.67	57.32
+Auchentosh	5	4.39	55.91
+Aultmore	3	3.01	57.6
+Balblair	3	4.17	57.83
+Balmenach	3	3.13	57.42
+Balvenie	4	3.1	57.45
+Banff	2	2.51	57.65
+Ben Nevis	1	5.08	56.79
+Benriach	3	3.24	57.59
+Benrinnes	3	3.24	57.43
+Benromach	3	3.6	57.6
+Bladnoch	4	4.44	54.86
+Blair Atho	3	3.74	56.72
+Bowmore	4	6.28	55.75
+Brackla	3	3.93	57.52
+Bruichladd	3	6.36	55.77
+Bunnahabha	3	6.14	55.89
+Caol Ila	4	6.12	55.85
+Caperdonic	3	3.19	57.53
+Cardhu	3	3.33	57.46
+Clynelish	4	3.87	58
+Coleburn	2	3.21	57.55
+Convalmore	2	3.12	57.46
+Cragganmor	4	3.38	57.4
+Craigellac	3	3.19	57.48
+Dailuaine	3	3.26	57.45
+Dallas Dhu	4	3.47	57.55
+Dalmore	4	4.17	57.7
+Dalwhinnie	3	4.23	56.93
+Deanston	2	4.04	56.28
+Dufftown	3	3.13	57.44
+Edradour	4	3.72	56.71
+Fettercair	3	2.59	56.86
+Glen  Alby	2	4.24	57.47
+Glenallach	3	3.22	57.45
+Glenburgie	2	3.49	57.63
+Glencadam	2	2.74	56.7
+Glen Dever	3	2.47	57.66
+Glendronac	3	2.67	57.45
+Glendullan	3	3.11	57.45
+Glen Elgin	3	3.24	57.55
+Glenesk	3	2.67	56.73
+Glenfarcla	4	3.3	57.43
+Glenfiddic	3	3.11	57.45
+Glen Gario	4	2.29	57.34
+Glenglassa	3	2.68	57.68
+Glengoyne	3	4.12	56.07
+Glen Grant	4	3.24	57.54
+Glen Keith	2	2.95	57.52
+Glenkinchi	4	2.95	55.94
+Glenlivet	5	3.33	57.36
+Glenlochy	2	5.12	56.86
+Glenlossie	3	3.29	57.56
+Glen Mhor	2	4.26	57.39
+Glenmorang	4	4.02	57.81
+Glen Moray	3	3.32	57.64
+Glen Ordie	3	4.45	57.52
+Glenrothes	4	3.22	57.51
+Glen Scoti	4	5.6	55.41
+Glen Spey	3	3.19	57.51
+Glentauche	2	2.95	57.33
+Glenturret	4	3.84	56.38
+Glenugie	2	1.8	57.49
+Glenury Ro	3	2.22	56.97
+Highland P	5	2.96	58.98
+Imperial	3	3.3	57.45
+Inchgower	3	2.98	57.67
+Inchmurrin	2	4.59	55.99
+Inverleven	2	4.61	55.95
+Jura	3	5.94	55.84
+Kinclaith	2	4.39	55.8
+Knockando	3	3.33	57.45
+Knockdhu	3	2.74	57.56
+Ladyburn	2	4.96	55.125
+Lagavulin	5	6.1	55.63
+Laphroaig	4	6.12	55.63
+Linkwood	4	3.24	57.61
+Littlemill	4	4.55	55.94
+Lochnagar	4	3.2	57.04
+Lochside	3	2.51	56.74
+Longmorn	4	3.24	57.56
+Macallan	5	3.21	57.5
+Millburn	3	4.14	57.43
+Miltonduff	3	3.37	57.66
+Mortlach	4	3.11	57.44
+North Port	2	2.47	56.71
+Oban	4	5.47	56.77
+Port Ellen	4	6.18	55.63
+Pulteney	3	3.11	58.43
+Rosebank	4	3.8	56
+Saint Magd	2	3.61	55.97
+Scapa	3	2.96	58.95
+Singleton	4	3.06	57.55
+Speyburn	3	3.17	57.54
+Springbank	5	5.6	55.41
+Longrow	5	5.6	55.41
+Strathisla	3	2.96	57.56
+Talisker	4	6.35	57.29
+Tamdhu	3	3.34	57.46
+Tamnavulin	3	3.32	57.31
+Teaninich	3	4.28	57.68
+Tobermory	2	6.08	56.61
+Tomatin	3	3.99	57.33
+Tomintoul	3	3.38	57.25
+Tormore	3	3.41	57.38
+Tullibardi	3	3.78	56.25
